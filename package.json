@@ -1,0 +1,31 @@
+{
+	"name": "subtraction",
+	"version": "0.0.1",
+	"description": "The subtraction operation 7 ➖ 3 = 4",
+	"license": "MIT",
+	"repository": "abranhe/subtraction",
+	"author": {
+		"name": "Abraham Hernandez",
+		"email": "abraham@abranhe.com",
+		"url": "abranhe.com"
+	},
+	"main": "index.js",
+	"bugs": {
+		"url": "https://github.com/abranhe/subtraction/issues"
+	},
+	"homepage": "https://projects.abranhe.com/subtraction",
+	"scripts": {
+		"test": "xo && ava"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"math",
+		"subtraction"
+	],
+	"devDependencies": {
+		"ava": "^0.25.0",
+		"xo": "^0.23.0"
+	}
+}

@@ -18,7 +18,7 @@
 
 ## Important
 
-You could have a better using this package name, if so: [gitter me!](https://gitter.im/abranhe)
+You probably have a better idea using this package name, if so: [gitter me!](https://gitter.im/abranhe)
 
 ## Install
 
